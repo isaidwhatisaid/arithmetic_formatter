@@ -1,3 +1,5 @@
+This is all taken directly from the repl.it page:
+
 # arithmetic_formatter
 Scientific Computing with Python Project 1
 ### Assignment
