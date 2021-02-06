@@ -44,6 +44,3 @@ def arithmetic_arranger(problems, condition = bool):
         x.append(lines + '\n')
     final = ''.join(x).rstrip()
     return final
-
-print(arithmetic_arranger(["5434 - 12", '34 + 5', '17 - 27', '432 + 5423', '1 + 4'], True))
-print(arithmetic_arranger(["11 + 4", "3801 - 2999", "1 + 2", "123 + 49", "1 - 9380"]))
